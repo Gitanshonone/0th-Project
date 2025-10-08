@@ -1,4 +1,4 @@
 # 0th-Project
-<u>This is my 0th git repository</u>
+<ins>This is my 0th git repository</ins>
 <br></br>
 <b>Made by GS</b>
